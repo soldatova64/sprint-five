@@ -176,7 +176,6 @@ type Swimming struct {
 	Training
 	LengthPool int // длина бассейна
 	CountPool  int // количество пересечений бассейна
-	CaloriesCalculator
 }
 
 // meanSpeed возвращает среднюю скорость при плавании.
